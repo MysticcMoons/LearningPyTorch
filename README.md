@@ -1,4 +1,4 @@
-# LearningPyTorch
+# Learning PyTorch!
 
 Hello there!
 
